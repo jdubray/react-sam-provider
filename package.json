@@ -1,0 +1,22 @@
+{
+  "name": "react-sam-provider",
+  "version": "1.0.0",
+  "description": "This library streamlines and enhances the development process for React developers by providing intuitive hooks and components to implement the SAM pattern effectively",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SAM",
+    "Application",
+    "State",
+    "Management"
+  ],
+  "homepage": "https://github.com/jdubray/react-sam-provider#readme",
+  "author": "Jean-Jacques Dubray <jdubray@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "sam-pattern": "^1.5.10"
+  }
+}
